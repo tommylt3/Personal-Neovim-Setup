@@ -37,6 +37,9 @@ require("lazy").setup({
 
   -- git integration
   { "tpope/vim-fugitive" },
+
+  -- Vim Game / Practice
+  { "ThePrimeagen/vim-be-good" },
 })
 
 -- Enable Treesitter
