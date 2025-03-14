@@ -31,6 +31,8 @@ require("lazy").setup({
   -- Color scheme
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
 
+  -- CSV Colors
+  { "mechatroner/rainbow_csv" },
 
   -- status line
   { "nvim-lualine/lualine.nvim" },
